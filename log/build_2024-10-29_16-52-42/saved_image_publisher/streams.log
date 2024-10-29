@@ -1,0 +1,21 @@
+[2.678s] Invoking command in '/home/rasp7/ws_publish/src/saved_image_publisher': PYTHONPATH=/home/rasp7/ws_publish/build/saved_image_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rasp7/ws_publish/install/saved_image_publisher/lib/python3.11/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/saved_image_publisher build --build-base /home/rasp7/ws_publish/build/saved_image_publisher/build install --record /home/rasp7/ws_publish/build/saved_image_publisher/install.log --single-version-externally-managed install_data
+[3.585s] running egg_info
+[3.622s] writing ../../build/saved_image_publisher/saved_image_publisher.egg-info/PKG-INFO
+[3.622s] writing dependency_links to ../../build/saved_image_publisher/saved_image_publisher.egg-info/dependency_links.txt
+[3.622s] writing entry points to ../../build/saved_image_publisher/saved_image_publisher.egg-info/entry_points.txt
+[3.622s] writing requirements to ../../build/saved_image_publisher/saved_image_publisher.egg-info/requires.txt
+[3.622s] writing top-level names to ../../build/saved_image_publisher/saved_image_publisher.egg-info/top_level.txt
+[3.694s] reading manifest file '../../build/saved_image_publisher/saved_image_publisher.egg-info/SOURCES.txt'
+[3.694s] writing manifest file '../../build/saved_image_publisher/saved_image_publisher.egg-info/SOURCES.txt'
+[3.694s] running build
+[3.694s] running build_py
+[3.694s] running install
+[3.706s] running install_lib
+[3.745s] running install_data
+[3.745s] running install_egg_info
+[3.845s] removing '/home/rasp7/ws_publish/install/saved_image_publisher/lib/python3.11/site-packages/saved_image_publisher-0.0.0-py3.11.egg-info' (and everything under it)
+[3.845s] Copying ../../build/saved_image_publisher/saved_image_publisher.egg-info to /home/rasp7/ws_publish/install/saved_image_publisher/lib/python3.11/site-packages/saved_image_publisher-0.0.0-py3.11.egg-info
+[3.845s] running install_scripts
+[3.991s] Installing image_sender script to /home/rasp7/ws_publish/install/saved_image_publisher/lib/saved_image_publisher
+[3.991s] writing list of installed files to '/home/rasp7/ws_publish/build/saved_image_publisher/install.log'
+[4.130s] Invoked command in '/home/rasp7/ws_publish/src/saved_image_publisher' returned '0': PYTHONPATH=/home/rasp7/ws_publish/build/saved_image_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rasp7/ws_publish/install/saved_image_publisher/lib/python3.11/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/saved_image_publisher build --build-base /home/rasp7/ws_publish/build/saved_image_publisher/build install --record /home/rasp7/ws_publish/build/saved_image_publisher/install.log --single-version-externally-managed install_data
